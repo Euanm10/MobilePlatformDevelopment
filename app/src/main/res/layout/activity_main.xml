@@ -1,0 +1,99 @@
+<!-- Author Euan Millar, S1820947 -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/salutation"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome to Mobile Platform Development Assignment
+2021-2022"
+            android:textSize="20sp" />
+
+
+
+        <TextView
+            android:id="@+id/acknowledgement"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Contains Traffic Scotland Data"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/listAllButton"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="All Incidents"
+            android:layout_marginTop="25dp"
+            android:textSize="20sp"/>
+
+        <Button
+            android:id="@+id/byRoad"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Incident By Road"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp" />
+        <Button
+            android:id="@+id/byDate"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Incident By Date"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/subhead"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Journey Planner"
+            android:layout_gravity="center"
+            android:textSize="20sp" />
+        <EditText
+            android:id="@+id/journeyInput"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="Date of journey."
+            android:clickable="false"
+            android:layout_marginTop="10dp"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"/>
+
+        <TextView
+            android:id="@+id/errorempty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please select a date."
+            android:textColor="@color/red"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/journey"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:text="Begin Plan"
+            android:textSize="20sp" />
+    </LinearLayout>
+</ScrollView>

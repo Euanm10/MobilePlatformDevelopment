@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout-land/activity_detail.xml" value="0.225" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout-land/activity_journey.xml" value="0.225" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout-land/activity_list_all.xml" value="0.225" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout-land/activity_list_date.xml" value="0.225" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout-land/activity_list_road.xml" value="0.225" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout-land/activity_main.xml" value="0.20811287477954143" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout/activity_detail.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout/activity_journey.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout/activity_list_all.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout/activity_list_date.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout/activity_list_road.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Euan/Desktop/Millar_Euan_S1820947/app/src/main/res/layout/activity_no_internet.xml" value="0.1956521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
